@@ -1,1 +1,2 @@
 # Digital-Clock-
+The Digital Clock is a fully responsive web application developed using HTML, CSS, and JavaScript. It displays the current time in real-time, automatically updating every second, along with the day of the week and the current date. The project provides additional user-friendly features such as a 12-hour / 24-hour format toggle and a Dark/Light theme switch, making it both functional and customizable.
